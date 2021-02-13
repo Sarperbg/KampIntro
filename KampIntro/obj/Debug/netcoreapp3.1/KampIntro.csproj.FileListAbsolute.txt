@@ -1,0 +1,12 @@
+C:\Users\Hp\source\repos\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.exe
+C:\Users\Hp\source\repos\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.deps.json
+C:\Users\Hp\source\repos\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.json
+C:\Users\Hp\source\repos\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.dll
+C:\Users\Hp\source\repos\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.pdb
+C:\Users\Hp\source\repos\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfo.cs
+C:\Users\Hp\source\repos\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.dll
+C:\Users\Hp\source\repos\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.pdb
+C:\Users\Hp\source\repos\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.genruntimeconfig.cache
